@@ -1,0 +1,20 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "\u0000plugin-vue:export-helper": [],
+  "src/views/Main.vue": [],
+  "src/views/NotFound.vue": [],
+  "src/routes.ts": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "src/App.vue": [],
+  "src/styles.css": [],
+  "src/main.ts": [],
+  "index.html": []
+}
