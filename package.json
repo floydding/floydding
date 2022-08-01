@@ -1,0 +1,23 @@
+{
+  "name": "floydding",
+  "version": "0.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/index.html && cp CNAME dist/CNAME",
+    "publish": "gh-pages -d dist -b dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floydding/floydding.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/floydding/floydding/issues"
+  },
+  "homepage": "https://github.com/floydding/floydding#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
