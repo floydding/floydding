@@ -95,6 +95,7 @@
   "node_modules/vite-ssg/dist/chunks/state.mjs": [],
   "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
   "node_modules/vite-ssg/dist/index.mjs": [],
+  "src/App.vue?vue&type=style&index=0&scoped=5a6343b0&lang.css": [],
   "src/App.vue": [],
   "src/styles.css": [],
   "src/main.ts": [],
