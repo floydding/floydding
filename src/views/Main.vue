@@ -3,7 +3,7 @@
   <p>I code, cook and play guitar.</p>
   <p>
     Email:
-    <a href="mailto:floydding@gmail.com">floydding@gmail.com</a>
+    <a href="mailto:floydding@gmail.com" target="_blank">floydding@gmail.com</a>
   </p>
 </template>
 <script lang="ts" setup></script>
