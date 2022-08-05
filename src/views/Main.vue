@@ -1,9 +1,23 @@
 <template>
-  <h1>Floyd</h1>
+  <h1>Floyd Ding</h1>
   <p>I code, cook and play guitar.</p>
   <p>
     Email:
     <a href="mailto:floydding@gmail.com" target="_blank">floydding@gmail.com</a>
   </p>
+  <hr class="divider"/>
+  <ul>
+    <li>
+      <a href="/posts/about-cr">
+        About Code Review
+      </a>
+    </li>
+  </ul>
 </template>
-<script lang="ts" setup></script>
+
+<style scoped>
+.divider {
+  margin: 1rem 0;
+  border: none;
+}
+</style>
