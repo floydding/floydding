@@ -1,5 +1,5 @@
 <template>
   <router-link to="/">
-    &lt;&lt; floydding.lol
+    &lt;&lt;
   </router-link>
 </template>

@@ -12,6 +12,11 @@
         About Code Review
       </a>
     </li>
+    <li>
+      <a href="/posts/one-paragraph-story-1">
+        One Paragraph Story
+      </a>
+    </li>
   </ul>
 </template>
 
